@@ -11,7 +11,7 @@
 ## 在你的服务器上，执行如下命令即可：
 
 ```shell
-wget https://raw.githubusercontent.com/Mr-xn/kms-server-deploy/master/kms-server-deploy.sh && bash kms-server-deploy.sh
+wget https://raw.githubusercontent.com/one-mo/kms-server-deploy/master/kms-server-deploy.sh && bash kms-server-deploy.sh
 ```
 
 ## 不会的,请看下面的我的截图操作就知道了
